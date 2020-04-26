@@ -231,6 +231,5 @@ dmypy.json
 .pyre/
 .idea
 /config.py
-*.txt
 test.py
 test
